@@ -1,0 +1,15 @@
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.csproj.AssemblyReference.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.AssemblyInfoInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.AssemblyInfo.cs
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.csproj.CoreCompileInputs.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem9/bin/Debug/net7.0/HWSem9
+/Users/marinavolkova/Desktop/C#HW/HWSem9/bin/Debug/net7.0/HWSem9.deps.json
+/Users/marinavolkova/Desktop/C#HW/HWSem9/bin/Debug/net7.0/HWSem9.runtimeconfig.json
+/Users/marinavolkova/Desktop/C#HW/HWSem9/bin/Debug/net7.0/HWSem9.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem9/bin/Debug/net7.0/HWSem9.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/refint/HWSem9.dll
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.pdb
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/HWSem9.genruntimeconfig.cache
+/Users/marinavolkova/Desktop/C#HW/HWSem9/obj/Debug/net7.0/ref/HWSem9.dll
